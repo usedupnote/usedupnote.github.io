@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 이정명 | Hux Blog
+title: Usedupnote Blog
+SEOTitle: 이정명 | Usedupnote Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Hux, huxpro, @huxpro, Hux Blog, Web, JavaScript, React, React Native"
+description: "안녕하세요! 더 넓은 경험과 만나고 싶은 @Usedupnote의 개인 블로그입니다. | 멋진 경험을 보여주겠습니다!"
+keyword: "Usedupnote, huxpro, @huxpro, Usedupnote Blog, Web, JavaScript, React, React Native"
 url: "https://usedupnote.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "다양한 경험을 추구하는 개발자 <br> Developed by alone"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
