@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: -
-zhihu_username: -
+weibo_username: usedupnote
+zhihu_username: usedupnote
 github_username: usedupnote
-twitter_username: -
-#facebook_username: -
+twitter_username: usedupnote
+#facebook_username: usedupnote
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
