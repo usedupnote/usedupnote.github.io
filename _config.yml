@@ -4,7 +4,7 @@ SEOTitle: 이정명 | Usedupnote Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "안녕하세요! 더 넓은 경험과 만나고 싶은 @Usedupnote의 개인 블로그입니다. | 멋진 경험을 보여주겠습니다!"
-keyword: "Usedupnote, huxpro, @huxpro, Usedupnote Blog, Web, JavaScript, React, React Native"
+keyword: "Usedupnote, Usedupnote Blog, Web, JavaScript, React, React Native"
 url: "https://usedupnote.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -36,7 +36,7 @@ exclude:
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+#timezone: KR
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
