@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "\[ 다이나믹 프로그래밍 (dynamic programming) \]"
+title:      "[ 다이나믹 프로그래밍 (dynamic programming) ]"
 date:       2022-12-02 19:52:00
 author:     "Usedupnote"
 header-style: text
